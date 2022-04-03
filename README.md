@@ -1,4 +1,4 @@
-- 👋Merhaba, sayfaya hoşgeldiniz @KamilKayabay
+- 👋Merhaba, sayfaya hoşgeldiniz.
 - 👀 Bu sayfada Görüntü işleme dersinde yapmış olduğum çalışmaları ve yazmış olduğum kodları bulabilirsiniz.
 - 🌱  Github'ı öğrenmeye çalışıyoruz, bu yüzden profesyonel bir sayfa değil, daha iyi olmak ümidiyle.
 - 📫 Email adresim: kayabaykamil@gmail.com
